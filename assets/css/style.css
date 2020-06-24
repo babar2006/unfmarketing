@@ -3281,7 +3281,7 @@ a.scroll-top.show {
 	width: 580px;
 	max-width: 100%;
 	right: 500px;
-	border: 1px dotted gray;
+	
 }
 
 .hero-slider__content > * {
@@ -3291,7 +3291,7 @@ a.scroll-top.show {
 	animation-duration: 1s;
 	-webkit-animation-fill-mode: both;
 	animation-fill-mode: both;
-	border: 1px dotted gray;
+	
 	
 }
 
@@ -3300,7 +3300,7 @@ a.scroll-top.show {
 	line-height: 1.2;
 	color: #ffffff;
 	margin-bottom: 40px;
-	border: 1px dotted gray;
+	
 	
 }
 
@@ -3310,7 +3310,7 @@ a.scroll-top.show {
 	color: #ffffff;
 	
 	margin-bottom: 50px;
-	border: 1px dotted gray;
+	
 }
 
 .hero-slider__btn {
@@ -3326,7 +3326,7 @@ a.scroll-top.show {
 	-webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 	-o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 	transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-	border: 1px dotted gray;
+	
 	margin-top: 25px;
 }
 
